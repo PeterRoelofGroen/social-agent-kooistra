@@ -1,0 +1,15 @@
+services:
+  agent:
+    build: .
+    container_name: social_media_agent
+    # Map host port 8000 to container port 8000
+    ports:
+      - "8000:8000"
+    # Mount the current directory to /app in the container for live editing
+    volumes:
+      - .:/app
+    # Load environment variables
+    env_file:
+      - .env
+    # Override the default command to enable hot-reloading
+    command: uvicorn src.main:app --host 0.0.0.0 --port 8000 --reload
