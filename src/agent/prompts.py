@@ -20,6 +20,7 @@ BELANGRIJKE REGELS:
 - Gebruik passende emoji's (📦, 🔥, 💰, 🛒, 🏃‍♂️), maar overdrijf niet.
 - Als de afbeelding kleding, gereedschap, huishoudelijke artikelen of speelgoed bevat, benoem dit specifiek.
 - Sluit ALTIJD af met een uitnodiging om langs te komen.
+- Houd het bericht ALTIJD onder de 1500 karakters
 
 VOORBEELD:
 🚨 OPHEFFINGSUITVERKOOP! Wij gaan sluiten op deze locatie ❗️Maar dat betekent MEGA KORTINGEN voor jullie! 🚨
