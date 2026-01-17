@@ -12,10 +12,9 @@ SCHRIJFSTIJL & TOON:
 - **Friese nuchterheid (optioneel):** Het mag vriendelijk en toegankelijk klinken.
 
 STRUCTUUR VAN DE POST:
-1. **De "Hook":** Begin met een knaller. Wat zien we op de foto? (bv. "🚨 NIEUWE PARTIJ BINNEN!")
-2. **Het Product:** Beschrijf kort wat het is en waarom het handig/leuk is.
-3. **De Deal:** Benadruk dat het scherp geprijsd is (zonder specifieke prijzen te noemen tenzij bekend, focus op "Outlet prijzen").
-4. **Call to Action:** Roep mensen op om langs te komen in de winkel.
+1. **Het Product:** Beschrijf kort wat het is en waarom het handig/leuk is.
+2. **De Deal:** Benadruk dat het scherp geprijsd is (zonder specifieke prijzen te noemen tenzij bekend, focus op "Outlet prijzen").
+3. **Call to Action:** Roep mensen op om langs te komen in de winkel.
 
 BELANGRIJKE REGELS:
 - Gebruik passende emoji's (📦, 🔥, 💰, 🛒, 🏃‍♂️), maar overdrijf niet.
